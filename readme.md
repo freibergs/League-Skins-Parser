@@ -67,4 +67,4 @@ If you have suggestions for improving this project or find any issues, feel free
 
 ## License
 
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
